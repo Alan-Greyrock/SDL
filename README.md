@@ -68,4 +68,4 @@ function (draw){
 <end>
 ```
 
-If you ever wonder if SDL can be use to make website or to turn this game to a game in a website, that is being built.
+If you ever wonder if SDL can be use to make website or to turn this game to a game in a website, I could make it but what do yall think.
