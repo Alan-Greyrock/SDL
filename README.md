@@ -6,10 +6,10 @@
 
 _It's goal is to be completed even tho, in the future more things will be added. It's under contruction, but some of the codes are build and made._
 
-_If you want to program In SDL now, the tutorials are being built. So you will have to wait, but if you want to atleast know some, message me._
+_If you want to program in SDL now, the tutorials are being built. So you will have to wait, but if you want to atleast know some, message me._
 
 ## About
-SDl stands for Scratch Data Language. SDL is a brand new programming language so it will be high-level powerful language and its general purpose, which means it can be used to make anything. Right now, I am testing to see what it can be use for, more code is being made. SDL is not a real language, is it being build. Although, you can use it. It can be use to make game and probably to hack.
+SDl stands for Scratch Data Language. SDL is a brand new programming language, similar to Scratch, it will be high-level powerful language and its general purpose, which means it can be used to make anything. Right now, I am testing to see what it can be use for, more code is being made. SDL is not a real language, is it being build. Although, you can use it. It can be use to make game and probably to hack.
 
 ## Example ##
 Here is an example program of who you could make a ping pong for single player in computer.
@@ -22,8 +22,8 @@ Here is an example program of who you could make a ping pong for single player i
 
 *This the draw function defined below*
 function (draw){
-	start.background(rgb(0,0,0)	*This starts the background*
-	create class (Ball)	*This creates a class*
+	start.background(rgb(0,0,0) *This starts the background*
+	create class (Ball) *This creates a class*
 	class Ball {
 		when (start){
 			set (Score) to (0)
@@ -67,3 +67,5 @@ function (draw){
 *This is the ending tag below*
 <end>
 ```
+
+If you ever wonder if SDL can be use to make website or to turn this game to a game in a website, that is being built.
